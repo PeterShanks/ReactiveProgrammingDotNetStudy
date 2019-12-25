@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalProgrammingCourse1", "FunctionalProgrammingCourse1\FunctionalProgrammingCourse1.csproj", "{EC4E3456-D521-493B-AF57-B4133D5378D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyDemo", "MoneyDemo\MoneyDemo.csproj", "{703F3FA8-D0D1-4429-A101-4AFB222D2DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4E3456-D521-493B-AF57-B4133D5378D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4E3456-D521-493B-AF57-B4133D5378D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4E3456-D521-493B-AF57-B4133D5378D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4E3456-D521-493B-AF57-B4133D5378D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703F3FA8-D0D1-4429-A101-4AFB222D2DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703F3FA8-D0D1-4429-A101-4AFB222D2DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703F3FA8-D0D1-4429-A101-4AFB222D2DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703F3FA8-D0D1-4429-A101-4AFB222D2DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC67FFCD-33BF-4EE1-93B3-E890CB871787}
+	EndGlobalSection
+EndGlobal
